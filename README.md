@@ -14,6 +14,8 @@ Mata Kuliah: Business Intelligence
 
 # 📁 DESKRIPSI PROYEK
 
-Proyek ini bertujuan untuk merancang dan mengimplementasikan Data Warehouse berbasis star schema menggunakan dataset _**Sales Forecasting (Retail)**_. Data Warehouse dibangun untuk mendukung analisis tren penjualan berdasarkan dimensi waktu, toko, dan produk.
+Proyek ini bertujuan untuk merancang dan mengimplementasikan Data Warehouse berbasis star schema menggunakan dataset E-Commerce Sales Dataset. Data Warehouse dibangun untuk mendukung analisis penjualan retail fashion berdasarkan dimensi waktu, kategori produk, kota, dan status pengiriman.
 
-Melalui proyek ini dilakukan proses ETL (_Extract, Transform, Load_) untuk mengubah data mentah menjadi struktur terorganisir yang siap digunakan untuk analisis dan pengambilan keputusan bisnis.
+Melalui proyek ini dilakukan proses ETL (Extract, Transform, Load) untuk mengubah data mentah menjadi struktur data yang terorganisir dan siap digunakan dalam proses analisis bisnis serta visualisasi dashboard menggunakan Tableau.
+
+Hasil dari proyek ini berupa dashboard analisis penjualan retail fashion yang menampilkan informasi terkait total penjualan, tren penjualan bulanan, penjualan per kategori, penjualan per kota, serta status pengiriman produk.
